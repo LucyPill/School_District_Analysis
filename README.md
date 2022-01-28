@@ -8,7 +8,7 @@ After Maria was finished with the analysis, she was informed that there was evid
 
 # Results: 
 ### How is the district summary affected?
-The overall impact that Thomas High School had to the district was not significant. 
+After accounting for the dishonesty, the overall impact that Thomas High School had to the district was not significant. There was no change to the average reading scores nore the other scores. 
 
 ### How is the school summary affected?
 
