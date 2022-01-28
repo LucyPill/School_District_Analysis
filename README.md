@@ -9,7 +9,7 @@ After Maria was finished with the analysis, she was informed that there was evid
 # Results: 
 ### How is the district summary affected?
 After accounting for the dishonesty, the overall impact that Thomas High School had to the district was not significant. There was no change to the average reading scores nore the other scores. 
-
+![districtsummary_before_after.png](https://github.com/LucyPill/School_District_Analysis/blob/main/districtsummary_before_after.png)
 ### How is the school summary affected?
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
